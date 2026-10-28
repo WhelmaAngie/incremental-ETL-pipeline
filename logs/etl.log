@@ -1,0 +1,22 @@
+2026-10-28T13:22:17 INFO    Run started
+2026-10-28T13:22:17 INFO    Existing rows loaded: 20
+2026-10-28T13:22:17 INFO    Batch BATCH-2026-10-21-01: 17 records read
+2026-10-28T13:22:17 WARNING Invalid record unknown: Missing transaction_id
+2026-10-28T13:22:17 WARNING Invalid record MP-50026: amount_kes must be greater than zero
+2026-10-28T13:22:17 INFO    New: 7 | Updated: 3 | Duplicates: 5 | Invalid: 2
+2026-10-28T13:22:17 INFO    Rows after load: 27
+2026-10-28T13:22:17 INFO    Run finished in 0.01s
+2026-10-28T13:25:21 INFO    Run started
+2026-10-28T13:25:21 INFO    Existing rows loaded: 27
+2026-10-28T13:25:21 INFO    Batch BATCH-2026-10-21-01 already processed - skipping
+2026-10-28T13:25:21 INFO    New: 0 | Updated: 0 | Duplicates: 0 | Invalid: 0
+2026-10-28T13:25:21 INFO    Rows after load: 27
+2026-10-28T13:25:21 INFO    Run finished in 0.00s
+2026-10-28T13:26:40 INFO    Run started
+2026-10-28T13:26:40 INFO    Existing rows loaded: 27
+2026-10-28T13:26:40 INFO    Batch BATCH-2026-10-21-01: 17 records read
+2026-10-28T13:26:40 WARNING Invalid record unknown: Missing transaction_id
+2026-10-28T13:26:40 WARNING Invalid record MP-50026: amount_kes must be greater than zero
+2026-10-28T13:26:40 INFO    New: 0 | Updated: 0 | Duplicates: 15 | Invalid: 2
+2026-10-28T13:26:40 INFO    Rows after load: 27
+2026-10-28T13:26:40 INFO    Run finished in 0.01s
